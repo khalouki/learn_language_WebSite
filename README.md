@@ -3,9 +3,8 @@
 <p align="center">
   <!-- ================= PROJECT IMAGE ================= -->
   <!-- Replace the src value with your screenshot path -->
-  <img width="1604" height="818" alt="image" src="https://github.com/user-attachments/assets/5d8d1a36-65ba-45c3-9a39-5425e4d5048b" />
+  <img width="1604" height="418" alt="image" src="https://github.com/user-attachments/assets/5d8d1a36-65ba-45c3-9a39-5425e4d5048b" />
 
-  <img width="1604" height="818" alt="image" src="https://github.com/user-attachments/assets/5d8d1a36-65ba-45c3-9a39-5425e4d5048b" />
 
 </p>
 
