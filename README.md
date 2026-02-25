@@ -64,7 +64,7 @@ learn_language_WebSite
 │           ├── restaurant/
 │           └── school/
 │
-├── data/
+├── data/ sentence text 
 ├── backend/        # Flask API
 └── frontend/       # Next.js Application
 ```
@@ -148,7 +148,7 @@ npm run dev
 
 Frontend runs at:
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 ---
