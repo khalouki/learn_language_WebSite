@@ -222,6 +222,6 @@ This project is open-source and available under the MIT License.
 Developed by **Abdelkhalk Essaid**  
 Full-Stack Developer & Data Science Student
 
-GitHub: https://github.com/khalouki
-| PortFolio : khalouki.github.io/PortFolio
-| Linkdine : https://www.linkedin.com/in/abdelkhalk-essaid
+**GitHub:** https://github.com/khalouki  
+**Portfolio:** https://khalouki.github.io/PortFolio  
+**LinkedIn:** https://www.linkedin.com/in/abdelkhalk-essaid  
