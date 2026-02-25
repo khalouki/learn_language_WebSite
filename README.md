@@ -3,9 +3,8 @@
 <p align="center">
   <!-- ================= PROJECT IMAGE ================= -->
   <!-- Replace the src value with your screenshot path -->
-  <img src="https://via.placeholder.com/1000x500.png?text=Project+Screenshot+Here" 
-       alt="Learn Language Website Screenshot" 
-       width="900"/>
+  <img width="1604" height="818" alt="image" src="https://github.com/user-attachments/assets/5d8d1a36-65ba-45c3-9a39-5425e4d5048b" />
+
 </p>
 
 ---
@@ -163,24 +162,41 @@ http://localhost:3000
 
 ---
 
-## 🖼️ Screenshots
 
-You can add more screenshots like this:
+## 📸 Screenshots
 
-```markdown
-![Home Page](https://via.placeholder.com/800x400.png?text=Home+Page)
-![Lesson Page](https://via.placeholder.com/800x400.png?text=Lesson+Page)
-![Audio Section](https://via.placeholder.com/800x400.png?text=Audio+Section)
-```
+<div align="center">
 
-Replace placeholder links with:
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cb21422e-4cdb-4249-ad76-da2dd2c37195" 
+           width="400" height="250" style="object-fit: cover;"/>
+      <br/>
+      <sub><b>Context List</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/51bf691d-39c2-40d4-b04c-3a4ff5dbb357" 
+           width="400" height="250" style="object-fit: cover;"/>
+      <br/>
+      <sub><b>Level List per Language</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d0e5e357-5000-4201-880d-7fa821df0d7c" 
+           width="400" height="250" style="object-fit: cover;"/>
+      <br/>
+      <sub><b>Lesson View</b></sub>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-```
-/frontend/public/screenshot.png
-```
-or GitHub raw image URLs.
+</div>
 
----
+</div>
+
 
 ## 🔮 Future Improvements
 
@@ -205,3 +221,5 @@ Developed by **Abdelkhalk Essaid**
 Full-Stack Developer & Data Science Student
 
 GitHub: https://github.com/khalouki
+| PortFolio : khalouki.github.io/PortFolio
+| Linkdine : https://www.linkedin.com/in/abdelkhalk-essaid
